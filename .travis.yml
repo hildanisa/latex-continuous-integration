@@ -26,3 +26,4 @@ script:
     bibtex sample_article &&
     pdflatex -halt-on-error -interaction nonstopmode sample_article &&
     pdflatex -halt-on-error -interaction nonstopmode sample_article
+#hilda
